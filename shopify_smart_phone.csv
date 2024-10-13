@@ -1,0 +1,337 @@
+,Product Name,Brand,RAM,ROM,Discount(%),Price(Rs)
+0,"Redmi Redmi Note 13 Pro 5G (Arctic White, 128 GB)",redmi,8 GB ,128 GB,15,28999
+1,"Redmi Redmi Note 13 Pro 5G (Midnight Black, 128 GB)",redmi,8 GB ,128 GB,15,28999
+2,"Redmi Redmi Note 13 Pro 5G (Coral Purple, 128 GB)",redmi,8 GB ,128 GB,15,28999
+3,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Black, 256 GB)",redmi,8 GB ,256 GB,8,33999
+4,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Purple, 256 GB)",redmi,8 GB ,256 GB,8,33999
+5,"Redmi Redmi Note 13 Pro 5G Plus (Fusion White, 256 GB)",redmi,8 GB ,256 GB,8,33999
+6,"Redmi Redmi Note 13 Pro 5G Plus (Fusion White, 512 GB)",redmi,12 GB ,512 GB,3,37999
+7,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Black, 512 GB)",redmi,12 GB ,512 GB,3,37999
+8,"POCO C65 (Matte Black, 128 GB)",poco,6 GB ,128 GB,37,11999
+9,"vivo T3 Pro 5G (Sandstone Orange, 256 GB)",vivo,8 GB ,256 GB,15,31999
+10,"vivo T3 Pro 5G (Emerald Green, 128 GB)",vivo,8 GB ,128 GB,16,29999
+11,"vivo T3 Pro 5G (Sandstone Orange, 128 GB)",vivo,8 GB ,128 GB,16,29999
+12,"POCO C65 (Pastel Blue, 128 GB)",poco,6 GB ,128 GB,37,11999
+13,"POCO C65 (Pastel Blue, 128 GB)",poco,4 GB ,128 GB,36,10999
+14,"vivo T3 Lite 5G (Majestic Black, 128 GB)",vivo,6 GB ,128 GB,25,15499
+15,"vivo T3 Lite 5G (Vibrant Green, 128 GB)",vivo,6 GB ,128 GB,25,15499
+16,"vivo T3 Lite 5G (Majestic Black, 128 GB)",vivo,4 GB ,128 GB,27,14499
+17,"vivo T3 Lite 5G (Vibrant Green, 128 GB)",vivo,4 GB ,128 GB,27,14499
+18,"REDMI 13C (Stardust Black, 128 GB)",redmi,4 GB ,128 GB,35,11999
+19,"REDMI 13C (Starshine Green, 128 GB)",redmi,4 GB ,128 GB,35,11999
+20,"POCO C65 (Pastel Green, 128 GB)",poco,4 GB ,128 GB,36,10999
+21,"POCO C61 (Ethereal Blue, 64 GB)",poco,4 GB ,64 GB,27,8999
+22,"REDMI 13C (Starfrost White, 128 GB)",redmi,4 GB ,128 GB,35,11999
+23,"POCO C65 (Matte Black, 128 GB)",poco,4 GB ,128 GB,36,10999
+24,"Redmi Redmi Note 13 Pro 5G (Arctic White, 128 GB)",redmi,8 GB ,128 GB,15,28999
+25,"Redmi Redmi Note 13 Pro 5G (Midnight Black, 128 GB)",redmi,8 GB ,128 GB,15,28999
+26,"Redmi Redmi Note 13 Pro 5G (Coral Purple, 128 GB)",redmi,8 GB ,128 GB,15,28999
+27,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Black, 256 GB)",redmi,8 GB ,256 GB,8,33999
+28,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Purple, 256 GB)",redmi,8 GB ,256 GB,8,33999
+29,"Redmi Redmi Note 13 Pro 5G Plus (Fusion White, 256 GB)",redmi,8 GB ,256 GB,8,33999
+30,"Redmi Redmi Note 13 Pro 5G Plus (Fusion White, 512 GB)",redmi,12 GB ,512 GB,3,37999
+31,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Black, 512 GB)",redmi,12 GB ,512 GB,3,37999
+32,"POCO C65 (Matte Black, 128 GB)",poco,6 GB ,128 GB,37,11999
+33,"vivo T3 Pro 5G (Sandstone Orange, 256 GB)",vivo,8 GB ,256 GB,15,31999
+34,"vivo T3 Pro 5G (Emerald Green, 128 GB)",vivo,8 GB ,128 GB,16,29999
+35,"vivo T3 Pro 5G (Sandstone Orange, 128 GB)",vivo,8 GB ,128 GB,16,29999
+36,"POCO C65 (Pastel Blue, 128 GB)",poco,6 GB ,128 GB,37,11999
+37,"POCO C65 (Pastel Blue, 128 GB)",poco,4 GB ,128 GB,36,10999
+38,"vivo T3 Lite 5G (Majestic Black, 128 GB)",vivo,6 GB ,128 GB,25,15499
+39,"vivo T3 Lite 5G (Vibrant Green, 128 GB)",vivo,6 GB ,128 GB,25,15499
+40,"vivo T3 Lite 5G (Majestic Black, 128 GB)",vivo,4 GB ,128 GB,27,14499
+41,"vivo T3 Lite 5G (Vibrant Green, 128 GB)",vivo,4 GB ,128 GB,27,14499
+42,"REDMI 13C (Stardust Black, 128 GB)",redmi,4 GB ,128 GB,35,11999
+43,"REDMI 13C (Starshine Green, 128 GB)",redmi,4 GB ,128 GB,35,11999
+44,"POCO C65 (Pastel Green, 128 GB)",poco,4 GB ,128 GB,36,10999
+45,"POCO C61 (Ethereal Blue, 64 GB)",poco,4 GB ,64 GB,27,8999
+46,"REDMI 13C (Starfrost White, 128 GB)",redmi,4 GB ,128 GB,35,11999
+47,"POCO C65 (Matte Black, 128 GB)",poco,4 GB ,128 GB,36,10999
+48,"POCO C61 (Ethereal Blue, 64 GB)",poco,4 GB ,64 GB,27,8999
+49,"POCO C65 (Matte Black, 128 GB)",poco,4 GB ,128 GB,36,10999
+50,"REDMI 13C (Starfrost White, 128 GB)",redmi,4 GB ,128 GB,35,11999
+51,"POCO C61 (Diamond Dust Black, 64 GB)",poco,4 GB ,64 GB,27,8999
+52,"POCO C61 (Mystical Green, 64 GB)",poco,4 GB ,64 GB,27,8999
+53,"Motorola Edge 50 Fusion (Forest Blue, 128 GB)",motorola,8 GB ,128 GB,11,25999
+54,"REDMI 12 5G (Jade Black, 128 GB)",redmi,6 GB ,128 GB,30,17999
+55,"REDMI 12 5G (Moonstone Silver, 256 GB)",redmi,8 GB ,256 GB,30,19999
+56,"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 256 GB)",oneplus,8 GB ,256 GB,16,21999
+57,"OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB)",oneplus,8 GB ,128 GB,16,19999
+58,"OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB)",oneplus,8 GB ,256 GB,15,21999
+59,"Motorola Edge 50 Fusion (Marshmallow Blue, 128 GB)",motorola,8 GB ,128 GB,11,25999
+60,"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB)",oneplus,8 GB ,128 GB,14,19999
+61,"POCO C61  - Locked with Airtel Prepaid (Ethereal Blue, 64 GB)",poco,4 GB ,64 GB,33,8999
+62,"REDMI 12 5G (Moonstone Silver, 128 GB)",redmi,6 GB ,128 GB,30,17999
+63,"realme 12x 5G (Twilight Purple, 128 GB)",realme,8 GB ,128 GB,21,18999
+64,"REDMI 12 5G (Jade Black, 256 GB)",redmi,8 GB ,256 GB,30,19999
+65,"POCO M6 5G (Galactic Black, 128 GB)",poco,6 GB ,128 GB,28,13999
+66,"vivo T3x 5G (Crimson Bliss, 128 GB)",vivo,6 GB ,128 GB,21,18999
+67,"vivo T3x 5G (Celestial Green, 128 GB)",vivo,8 GB ,128 GB,19,20499
+68,"Motorola g64 5G (Ice Lilac, 128 GB)",motorola,8 GB ,128 GB,16,17999
+69,"realme 12x 5G (Woodland Green, 128 GB)",realme,8 GB ,128 GB,21,18999
+70,"realme 12x 5G (Woodland Green, 128 GB)",realme,6 GB ,128 GB,25,17999
+71,"realme 12x 5G (Twilight Purple, 128 GB)",realme,6 GB ,128 GB,25,17999
+72,"vivo T3x 5G (Crimson Bliss, 128 GB)",vivo,8 GB ,128 GB,19,20499
+73,"REDMI 13 5G (Orchid Pink, 128 GB)",redmi,6 GB ,128 GB,26,17999
+74,"REDMI 13c 5G (Startrail Silver, 256 GB)",redmi,8 GB ,256 GB,15,15999
+75,"REDMI 13 5G (Hawaiian Blue, 128 GB)",redmi,6 GB ,128 GB,26,17999
+76,"REDMI 12 5G (Pastel Blue, 256 GB)",redmi,8 GB ,256 GB,30,19999
+77,"REDMI 12 (Moonstone Silver, 128 GB)",redmi,6 GB ,128 GB,37,15999
+78,"OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Midnight Voilet, 256 GB)",oppo,8 GB ,256 GB,15,18999
+79,"OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Breeze Blue, 256 GB)",oppo,8 GB ,256 GB,15,18999
+80,"POCO M6 Pro 5G (Power Black, 128 GB)",poco,4 GB ,128 GB,40,15999
+81,"POCO M6 5G - Locked with Airtel Prepaid (Galactic Black, 128 GB)",poco,4 GB ,128 GB,36,12999
+82,"POCO M6 5G (Orion Blue, 64 GB)",poco,4 GB ,64 GB,29,11999
+83,"REDMI Note 13 Pro 5G (Coral Purple, 256 GB)",redmi,12 GB ,256 GB,28,32999
+84,"REDMI 13c 5G (Startrail Silver, 128 GB)",redmi,4 GB ,128 GB,24,13999
+85,"POCO M6 5G (Galactic Black, 64 GB)",poco,4 GB ,64 GB,29,11999
+86,"POCO C61  - Locked with Airtel Prepaid (Mystical Green, 64 GB)",poco,4 GB ,64 GB,33,8999
+87,"REDMI 13 5G (Black Diamond, 128 GB)",redmi,6 GB ,128 GB,26,17999
+88,"REDMI 13c 5G (Startrail Green, 128 GB)",redmi,4 GB ,128 GB,24,13999
+89,"REDMI 13c 5G (Starlight Black, 128 GB)",redmi,4 GB ,128 GB,25,13999
+90,"realme 12x 5G (Twilight Purple, 128 GB)",realme,4 GB ,128 GB,29,16999
+91,"REDMI 13c 5G (Startrail Green, 128 GB)",redmi,6 GB ,128 GB,17,13999
+92,"REDMI 13c 5G (Startrail Silver, 128 GB)",redmi,6 GB ,128 GB,27,15999
+93,"REDMI 13c 5G (Starlight Black, 128 GB)",redmi,6 GB ,128 GB,28,15999
+94,"REDMI 13c 5G (Starlight Black, 256 GB)",redmi,8 GB ,256 GB,24,17999
+95,"POCO M6 5G (Orion Blue, 128 GB)",poco,6 GB ,128 GB,28,13999
+96,"vivo T3 5G (Cosmic Blue, 128 GB)",vivo,8 GB ,128 GB,13,22999
+97,"vivo T3 5G (Crystal Flake, 128 GB)",vivo,8 GB ,128 GB,13,22999
+98,"REDMI 13C (Starfrost White, 128 GB)",redmi,6 GB ,128 GB,39,13999
+99,"REDMI 13c 5G (Startrail Silver, 128 GB)",redmi,6 GB ,128 GB,27,15999
+100,"Infinix HOT 40i (Horizon Gold, 256 GB)",infinix,8 GB ,256 GB,18,10999
+101,"REDMI 13c 5G (Startrail Green, 128 GB)",redmi,6 GB ,128 GB,17,13999
+102,"SAMSUNG Galaxy F34 5G (Mystic Green, 128 GB)",samsung,8 GB ,128 GB,42,25999
+103,"REDMI Note 13 5G (Arctic White, 256 GB)",redmi,12 GB ,256 GB,22,24999
+104,"REDMI Note 13 5G (Stealth Black, 256 GB)",redmi,12 GB ,256 GB,26,24999
+105,"REDMI Note 13 5G (Prism Gold, 256 GB)",redmi,12 GB ,256 GB,26,24999
+106,"REDMI Note 13 5G (Arctic White, 256 GB)",redmi,8 GB ,256 GB,22,22999
+107,"REDMI Note 13 5G (Prism Gold, 128 GB)",redmi,6 GB ,128 GB,19,20999
+108,"REDMI 13c 5G (Starlight Black, 256 GB)",redmi,8 GB ,256 GB,24,17999
+109,"REDMI 12 (Jade Black, 128 GB)",redmi,6 GB ,128 GB,41,15999
+110,"POCO X6 Neo 5G (Astral Black, 128 GB)",poco,8 GB ,128 GB,30,19999
+111,"Infinix HOT 40i (Palm Blue, 256 GB)",infinix,8 GB ,256 GB,18,10999
+112,"REDMI 13c 5G (Starlight Black, 128 GB)",redmi,6 GB ,128 GB,29,15999
+113,"POCO X6 Neo 5G (Horizon Blue, 256 GB)",poco,12 GB ,256 GB,31,21999
+114,"realme 12+ 5G (Pioneer Green, 128 GB)",realme,8 GB ,128 GB,12,23999
+115,"Motorola g64 5G (Ice Lilac, 256 GB)",motorola,12 GB ,256 GB,15,19999
+116,"CMF by Nothing Phone 1 (Light Green, 128 GB)",cmf,8 GB ,128 GB,18,21999
+117,"CMF by Nothing Phone 1 (Orange, 128 GB)",cmf,8 GB ,128 GB,18,21999
+118,"POCO C61  - Locked with Airtel Prepaid (Mystical Green, 64 GB)",poco,4 GB ,64 GB,33,8999
+119,"realme 12+ 5G (Navigator Beige, 256 GB)",realme,8 GB ,256 GB,15,25999
+120,"vivo T3 5G (Cosmic Blue, 128 GB)",vivo,8 GB ,128 GB,13,22999
+121,"vivo T3 5G (Crystal Flake, 128 GB)",vivo,8 GB ,128 GB,13,22999
+122,"Infinix HOT 40i (Palm Blue, 256 GB)",infinix,8 GB ,256 GB,18,10999
+123,"Infinix HOT 40i (Starlit Black, 256 GB)",infinix,8 GB ,256 GB,18,10999
+124,"REDMI 12 (Jade Black, 128 GB)",redmi,6 GB ,128 GB,37,15999
+125,"POCO M6 Plus 5G (Graphite Black, 128 GB)",poco,6 GB ,128 GB,18,15999
+126,"Infinix SMART 8 (Rainbow Blue, 128 GB)",infinix,8 GB ,128 GB,27,10999
+127,"Infinix SMART 8 (Timber Black, 128 GB)",infinix,8 GB ,128 GB,27,10999
+128,"CMF by Nothing Phone 1 (Orange, 128 GB)",cmf,8 GB ,128 GB,18,21999
+129,"POCO X6 Neo 5G (Astral Black, 128 GB)",poco,8 GB ,128 GB,30,19999
+130,"CMF by Nothing Phone 1 (Light Green, 128 GB)",cmf,8 GB ,128 GB,18,21999
+131,"POCO M6 5G (Galactic Black, 128 GB)",poco,4 GB ,128 GB,30,12999
+132,"POCO X6 Neo 5G (Horizon Blue, 256 GB)",poco,12 GB ,256 GB,31,21999
+133,"CMF by Nothing Phone 1 (Orange, 128 GB)",cmf,6 GB ,128 GB,20,19999
+134,"Infinix SMART 8 (Shiny Gold, 128 GB)",infinix,8 GB ,128 GB,27,10999
+135,"Infinix SMART 8 (Galaxy White, 128 GB)",infinix,8 GB ,128 GB,27,10999
+136,"CMF by Nothing Phone 1 (Blue, 128 GB)",cmf,6 GB ,128 GB,20,19999
+137,"CMF by Nothing Phone 1 (Blue, 128 GB)",cmf,8 GB ,128 GB,18,21999
+138,"CMF by Nothing Phone 1 (Black, 128 GB)",cmf,8 GB ,128 GB,18,21999
+139,"CMF by Nothing Phone 1 (Light Green, 128 GB)",cmf,6 GB ,128 GB,20,19999
+140,"CMF by Nothing Phone 1 (Black, 128 GB)",cmf,6 GB ,128 GB,20,19999
+141,"Motorola g64 5G (Pearl Blue, 256 GB)",motorola,12 GB ,256 GB,15,19999
+142,"Motorola g64 5G (Mint Green, 256 GB)",motorola,12 GB ,256 GB,15,19999
+143,"Tecno Spark 20C (Magic Skin Green, 128 GB)",tecno,8 GB ,128 GB,20,10499
+144,"Redmi Redmi Note 13 Pro 5G (Arctic White, 128 GB)",redmi,8 GB ,128 GB,15,28999
+145,"Redmi Redmi Note 13 Pro 5G (Midnight Black, 128 GB)",redmi,8 GB ,128 GB,15,28999
+146,"Redmi Redmi Note 13 Pro 5G (Coral Purple, 128 GB)",redmi,8 GB ,128 GB,15,28999
+147,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Black, 256 GB)",redmi,8 GB ,256 GB,8,33999
+148,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Purple, 256 GB)",redmi,8 GB ,256 GB,8,33999
+149,"Redmi Redmi Note 13 Pro 5G Plus (Fusion White, 256 GB)",redmi,8 GB ,256 GB,8,33999
+150,"Redmi Redmi Note 13 Pro 5G Plus (Fusion White, 512 GB)",redmi,12 GB ,512 GB,3,37999
+151,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Black, 512 GB)",redmi,12 GB ,512 GB,3,37999
+152,"OnePlus Nord CE4 (Celadon Marble, 128 GB)",oneplus,8 GB ,128 GB,2,24999
+153,"Infinix HOT 40i (Starfall Green, 256 GB)",infinix,8 GB ,256 GB,18,10999
+154,"realme P1 5G (Phoenix Red, 128 GB)",realme,8 GB ,128 GB,20,21999
+155,"realme P1 5G (Phoenix Red, 256 GB)",realme,8 GB ,256 GB,17,22999
+156,"realme P1 5G (Peacock Green, 256 GB)",realme,8 GB ,256 GB,17,22999
+157,"realme P1 5G (Phoenix Red, 128 GB)",realme,6 GB ,128 GB,23,20999
+158,"REDMI Note 13 Pro 5G (Arctic White, 256 GB)",redmi,12 GB ,256 GB,25,32999
+159,"REDMI 12 (Moonstone Silver, 128 GB)",redmi,6 GB ,128 GB,41,15999
+160,"REDMI Note 13 5G (Stealth Black, 128 GB)",redmi,6 GB ,128 GB,26,20999
+161,"POCO M6 5G - Locked with Airtel Prepaid (Polaris Green, 128 GB)",poco,4 GB ,128 GB,36,12999
+162,"realme Narzo 70 Pro 5G (Glass Gold, 256 GB)",realme,8 GB ,256 GB,33,26999
+163,"itel A70 | 5000 mAh Battery |13MP Dual Rear Camera | Type C Charging (Field Green, 64 GB)",itel,4 GB ,64 GB,11,7299
+164,"itel A70 | 5000 mAh Battery |13MP Dual Rear Camera | Type C Charging (Azure Blue, 64 GB)",itel,4 GB ,64 GB,11,7299
+165,"itel A70 | 5000 mAh Battery |13MP Dual Rear Camera | Type C Charging (Brilliant Gold, 64 GB)",itel,4 GB ,64 GB,12,7299
+166,"realme Narzo N61 (Voyage Blue, 128 GB)",realme,6 GB ,128 GB,6,9599
+167,"Infinix SMART 8 HD (Crystal Green, 64 GB)",infinix,3 GB ,64 GB,16,7999
+168,"realme NARZO 70X 5G (FOREST GREEN, 128 GB)",realme,6 GB ,128 GB,29,17999
+169,"Infinix Smart 8 Plus (Timber Black, 128 GB)",infinix,4 GB ,128 GB,22,9999
+170,"Infinix Smart 8 Plus (Galaxy White, 128 GB)",infinix,4 GB ,128 GB,22,9999
+171,"SAMSUNG Galaxy M34 5G without charger (Prism Silver, 128 GB)",samsung,6 GB ,128 GB,40,24499
+172,"Samsung Galaxy S21 FE 5G with Snapdragon 888 (Olive, 256 GB)",samsung,8 GB ,256 GB,58,65000
+173,"realme Narzo 70 Pro 5G (Glass Green, 256 GB)",realme,8 GB ,256 GB,34,26999
+174,"SAMSUNG Galaxy M34 5G without charger (Midnight Blue, 128 GB)",samsung,6 GB ,128 GB,41,24499
+175,"Tecno Spark Go 1 (Startrail Black, 64 GB)",tecno,4 GB ,64 GB,18,8999
+176,"REDMI Note 13 5G (Chromatic Purple, 128 GB)",redmi,6 GB ,128 GB,28,20999
+177,"Samsung Galaxy S21 FE 5G with Snapdragon 888 (Graphite, 256 GB)",samsung,8 GB ,256 GB,57,64999
+178,"Motorola G34 5G (Ocean Green, 128 GB)",motorola,8 GB ,128 GB,20,14999
+179,"OnePlus Nord CE3 5G (Grey Shimmer, 128 GB)",oneplus,8 GB ,128 GB,30,26999
+180,"Samsung Galaxy S21 FE 5G with Snapdragon 888 (Lavender, 256 GB)",samsung,8 GB ,256 GB,57,65000
+181,"realme P1 Pro 5G (Phoenix Red, 256 GB)",realme,8 GB ,256 GB,19,25999
+182,"realme P1 Pro 5G (Parrot Blue, 128 GB)",realme,8 GB ,128 GB,20,24999
+183,"realme P1 Pro 5G (Phoenix Red, 128 GB)",realme,8 GB ,128 GB,20,24999
+184,"realme C63 (Jade Green, 64 GB)",realme,4 GB ,64 GB,15,9999
+185,"realme NARZO 70X 5G (Ice Blue, 128 GB)",realme,8 GB ,128 GB,27,18999
+186,"SAMSUNG Galaxy M34 5G (Waterfall Blue, 128 GB)",samsung,6 GB ,128 GB,41,24499
+187,"realme P1 Pro 5G (Parrot Blue, 256 GB)",realme,8 GB ,256 GB,19,25999
+188,"Infinix Smart 8 Plus (Shiny Gold, 128 GB)",infinix,4 GB ,128 GB,22,9999
+189,"POCO X6 5G (Mirror Black, 256 GB)",poco,8 GB ,256 GB,24,24999
+190,"realme NARZO 70X 5G (ICE BLUE, 128 GB)",realme,4 GB ,128 GB,28,16999
+191,"POCO M6 Pro 5G (Power Black, 64 GB)",poco,4 GB ,64 GB,40,14999
+192,"realme P1 Pro 5G (Parrot Blue, 128 GB)",realme,8 GB ,128 GB,20,24999
+193,"realme C63 (Jade Green, 64 GB)",realme,4 GB ,64 GB,15,9999
+194,"realme P1 Pro 5G (Phoenix Red, 128 GB)",realme,8 GB ,128 GB,20,24999
+195,"realme P1 Pro 5G (Phoenix Red, 256 GB)",realme,8 GB ,256 GB,19,25999
+196,"POCO X6 5G (Mirror Black, 256 GB)",poco,8 GB ,256 GB,24,24999
+197,"realme P1 Pro 5G (Parrot Blue, 256 GB)",realme,8 GB ,256 GB,19,25999
+198,"Infinix Smart 8 Plus (Shiny Gold, 128 GB)",infinix,4 GB ,128 GB,22,9999
+199,"realme NARZO 70X 5G (ICE BLUE, 128 GB)",realme,4 GB ,128 GB,28,16999
+200,"POCO M6 Pro 5G (Power Black, 64 GB)",poco,4 GB ,64 GB,40,14999
+201,"Samsung Galaxy S21 FE 5G with Snapdragon 888 (Navy, 256 GB)",samsung,8 GB ,256 GB,57,65000
+202,"realme C63 5G Charger in the Box (Starry Gold, 128 GB)",realme,6 GB ,128 GB,14,13999
+203,"POCO M6 Plus 5G (Misty Lavender, 128 GB)",poco,6 GB ,128 GB,18,15999
+204,"realme 12 Pro 5G (Navigator Beige, 256 GB)",realme,8 GB ,256 GB,15,31999
+205,"REDMI Note 13 Pro 5G (Coral Purple, 128 GB)",redmi,8 GB ,128 GB,25,28999
+206,"REDMI 12 (Pastel Blue, 128 GB)",redmi,4 GB ,128 GB,36,14999
+207,"SAMSUNG Galaxy M14 4G (Arctic Blue, 64 GB)",samsung,4 GB ,64 GB,37,13999
+208,"realme 12+ 5G (Pioneer Green, 128 GB)",realme,8 GB ,128 GB,12,23999
+209,"realme 12 Pro 5G (Navigator Beige, 256 GB)",realme,12 GB ,256 GB,26,33999
+210,"realme 12 Pro 5G (Submarine Blue, 256 GB)",realme,12 GB ,256 GB,26,33999
+211,"realme C63 5G Charger in the Box (Forest Green, 128 GB)",realme,6 GB ,128 GB,14,13999
+212,"REDMI Note 13 Pro+ 5G (Fusion Black, 256 GB)",redmi,8 GB ,256 GB,21,33999
+213,"IQOO z9x (Tornado Green, 128 GB)",iqoo,6 GB ,128 GB,18,18999
+214,"IQOO Z9x (Storm Grey, 128 GB)",iqoo,4 GB ,128 GB,10,17999
+215,"realme 12 Pro 5G (Navigator Beige, 128 GB)",realme,8 GB ,128 GB,23,29999
+216,"POCO X6 Pro 5G (Yellow, 512 GB)",poco,12 GB ,512 GB,21,32999
+217,"realme GT NEO 3 (150W) (Nitro Blue, 256 GB)",realme,12 GB ,256 GB,41,45999
+218,"realme C61 (Marble Black, 64 GB)",realme,4 GB ,64 GB,5,8999
+219,"Motorola g64 5G (Pearl Blue, 128 GB)",motorola,8 GB ,128 GB,16,17999
+220,"REDMI A3X (Midnight Black, 64 GB)",redmi,3 GB ,64 GB,30,9999
+221,"REDMI A3X (Olive Green, 64 GB)",redmi,3 GB ,64 GB,30,9999
+222,"REDMI 12 (Jade Black, 128 GB)",redmi,4 GB ,128 GB,36,14999
+223,"realme 12x 5G (Woodland Green, 128 GB)",realme,4 GB ,128 GB,29,16999
+224,"REDMI Note 13 5G (Arctic White, 256 GB)",redmi,12 GB ,256 GB,25,24999
+225,"POCO X6 5G (Snowstorm White, 512 GB)",poco,12 GB ,512 GB,21,27999
+226,"realme C65 5G (Glowing Black, 128 GB)",realme,6 GB ,128 GB,22,15999
+227,"SAMSUNG Galaxy F15 5G (Jazzy Green, 128 GB)",samsung,4 GB ,128 GB,18,15999
+228,"SAMSUNG Galaxy F15 5G (Groovy Violet, 128 GB)",samsung,6 GB ,128 GB,14,16999
+229,"REDMI A3X (Ocean Green, 64 GB)",redmi,3 GB ,64 GB,30,9999
+230,"realme C61 (Marble Black, 128 GB)",realme,6 GB ,128 GB,5,10999
+231,"SAMSUNG Galaxy A15 5G (Blue Black, 128 GB)",samsung,8 GB ,128 GB,18,21499
+232,"realme C65 5G (Feather Green, 128 GB)",realme,6 GB ,128 GB,22,15999
+233,"OnePlus Nord CE3 5G (Aqua Surge, 128 GB)",oneplus,8 GB ,128 GB,31,26999
+234,"REDMI 13 5G (Hawaiian Blue, 128 GB)",redmi,8 GB ,128 GB,27,19999
+235,"OnePlus Nord CE 2 Lite 5G (Blue Tide, 128 GB)",oneplus,6 GB ,128 GB,16,19999
+236,"SAMSUNG Galaxy A15 5G (Light Blue, 128 GB)",samsung,8 GB ,128 GB,19,21499
+237,"SAMSUNG Galaxy F15 5G (Groovy Violet, 128 GB)",samsung,4 GB ,128 GB,18,15999
+238,"Realme realme 12 Pro 5G (Submarine Blue, 128 GB)",realme,8 GB ,128 GB,16,29999
+239,"OnePlus Nord CE3 5G (Aqua Surge, 256 GB)",oneplus,12 GB ,256 GB,3,28999
+240,"Redmi Redmi Note 13 Pro 5G (Arctic White, 128 GB)",redmi,8 GB ,128 GB,15,28999
+241,"Redmi Redmi Note 13 Pro 5G (Midnight Black, 128 GB)",redmi,8 GB ,128 GB,15,28999
+242,"Redmi Redmi Note 13 Pro 5G (Coral Purple, 128 GB)",redmi,8 GB ,128 GB,15,28999
+243,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Black, 256 GB)",redmi,8 GB ,256 GB,8,33999
+244,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Purple, 256 GB)",redmi,8 GB ,256 GB,8,33999
+245,"Redmi Redmi Note 13 Pro 5G Plus (Fusion White, 256 GB)",redmi,8 GB ,256 GB,8,33999
+246,"Redmi Redmi Note 13 Pro 5G Plus (Fusion White, 512 GB)",redmi,12 GB ,512 GB,3,37999
+247,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Black, 512 GB)",redmi,12 GB ,512 GB,3,37999
+248,"OnePlus Nord CE 2 Lite 5G (Blue Tide, 128 GB)",oneplus,6 GB ,128 GB,16,19999
+249,"realme C65 5G (Feather Green, 128 GB)",realme,6 GB ,128 GB,22,15999
+250,"SAMSUNG Galaxy A15 5G (Light Blue, 128 GB)",samsung,8 GB ,128 GB,19,21499
+251,"SAMSUNG Galaxy F15 5G (Groovy Violet, 128 GB)",samsung,4 GB ,128 GB,18,15999
+252,"POCO M6 Plus 5G (Ice Silver, 128 GB)",poco,6 GB ,128 GB,18,15999
+253,"REDMI 13 5G (Black Diamond, 128 GB)",redmi,8 GB ,128 GB,28,19999
+254,"REDMI Note 13 Pro 5G (Midnight Black, 256 GB)",redmi,8 GB ,256 GB,23,30999
+255,"POCO X6 5G (Snowstorm White, 256 GB)",poco,8 GB ,256 GB,24,24999
+256,"realme NARZO N63 (Leather Blue, 64 GB)",realme,4 GB ,64 GB,22,9999
+257,"REDMI 13 5G (Orchid Pink, 128 GB)",redmi,8 GB ,128 GB,28,19999
+258,"POCO X6 Pro 5G (Racing Grey, 256 GB)",poco,8 GB ,256 GB,22,30999
+259,"IQOO Z7 Pro 5G (Graphite Matte, 256 GB)",iqoo,8 GB ,256 GB,21,27999
+260,"itel A23s (Morandi Green, 32 GB)",itel,2 GB ,32 GB,20,5999
+261,"REDMI Note 13 Pro+ 5G (Fusion Black, 256 GB)",redmi,12 GB ,256 GB,21,35999
+262,"itel P40 Plus (Icy Cyan, 128 GB)",itel,4 GB ,128 GB,26,9999
+263,"REDMI 13C 5G (Startrail Green, 256 GB)",redmi,8 GB ,256 GB,22,17999
+264,"Redmi Redmi Note 13 Pro 5G (Arctic White, 128 GB)",redmi,8 GB ,128 GB,15,28999
+265,"Redmi Redmi Note 13 Pro 5G (Midnight Black, 128 GB)",redmi,8 GB ,128 GB,15,28999
+266,"Redmi Redmi Note 13 Pro 5G (Coral Purple, 128 GB)",redmi,8 GB ,128 GB,15,28999
+267,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Black, 256 GB)",redmi,8 GB ,256 GB,8,33999
+268,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Purple, 256 GB)",redmi,8 GB ,256 GB,8,33999
+269,"Redmi Redmi Note 13 Pro 5G Plus (Fusion White, 256 GB)",redmi,8 GB ,256 GB,8,33999
+270,"Redmi Redmi Note 13 Pro 5G Plus (Fusion White, 512 GB)",redmi,12 GB ,512 GB,3,37999
+271,"Redmi Redmi Note 13 Pro 5G Plus (Fusion Black, 512 GB)",redmi,12 GB ,512 GB,3,37999
+272,"POCO C65 (Pastel Green, 256 GB)",poco,8 GB ,256 GB,18,13499
+273,"SAMSUNG Galaxy A14 5G (Light Green, 128 GB)",samsung,6 GB ,128 GB,30,20999
+274,"realme C61 (Safari Green, 64 GB)",realme,4 GB ,64 GB,5,8999
+275,"itel Aura 05i|Leather Finish|4000 Mah Battery|Type C Charging Support (Glorious Orange, 32 GB)",itel,2 GB ,32 GB,17,6799
+276,"itel Aura 05i|Leather Finish|4000 Mah Battery|Type C Charging Support (Meadow Green, 32 GB)",itel,2 GB ,32 GB,17,6799
+277,"REDMI A3 (Midnight Black, 128 GB)",redmi,6 GB ,128 GB,25,11999
+278,"SAMSUNG Galaxy A14 5G (Light Green, 64 GB)",samsung,4 GB ,64 GB,33,18499
+279,"REDMI Note 13 5G (Prism Gold, 128 GB)",redmi,6 GB ,128 GB,19,20999
+280,"IQOO Z7 Pro 5G (Graphite Matte, 128 GB)",iqoo,8 GB ,128 GB,14,26999
+281,"SAMSUNG Galaxy A05 (Light Green, 64 GB)",samsung,4 GB ,64 GB,32,12499
+282,"POCO X6 5G (Mirror Black, 256 GB)",poco,12 GB ,256 GB,22,26999
+283,"SAMSUNG Galaxy S23 FE (Mint, 128 GB)",samsung,8 GB ,128 GB,52,79999
+284,"itel Aura 05i|Leather Finish|4000 Mah Battery|Type C Charging Support (Nebula Black, 32 GB)",itel,2 GB ,32 GB,17,6799
+285,"itel Aura 05i|Leather Finish|4000 Mah Battery|Type C Charging Support (Crystal Blue, 32 GB)",itel,2 GB ,32 GB,17,6799
+286,"SAMSUNG Galaxy M34 5G without charger (Prism Silver, 128 GB)",samsung,8 GB ,128 GB,32,25999
+287,"SAMSUNG Galaxy M34 5G without charger (Midnight Blue, 128 GB)",samsung,8 GB ,128 GB,11,25999
+288,"realme C30s (Stripe Black, 32 GB)",realme,2 GB ,32 GB,31,9999
+289,"REDMI Note 13 Pro+ 5G (Fusion White, 256 GB)",redmi,12 GB ,256 GB,22,35999
+290,"OnePlus 12R (Cool Blue, 256 GB)",oneplus,8 GB ,256 GB,7,42999
+291,"REDMI 13C (Starfrost White, 128 GB)",redmi,6 GB ,128 GB,32,13999
+292,"Honor 90 5G (Emerald Green, 256 GB)",honor,8 GB ,256 GB,45,47999
+293,"SAMSUNG Galaxy S23 5G (Lavender, 256 GB)",samsung,8 GB ,256 GB,44,95999
+294,"REDMI 12 5G (Pastel Blue, 128 GB)",redmi,6 GB ,128 GB,30,17999
+295,"Tecno Camon 20 (Serenity Blue, 256 GB)",tecno,8 GB ,256 GB,27,17999
+296,"SAMSUNG Galaxy S23 5G (Phantom Black, 128 GB)",samsung,8 GB ,128 GB,46,89999
+297,"SAMSUNG Galaxy A14 5G (Black, 128 GB)",samsung,8 GB ,128 GB,28,22999
+298,"Nothing Phone (2a) Plus (Grey, 256 GB)",nothing,8 GB ,256 GB,6,29999
+299,"Nothing Phone (2a) Plus (Black, 256 GB)",nothing,8 GB ,256 GB,6,29999
+300,"IQOO Z9S PRO 5G (Flamboyant Orange, 128 GB)",iqoo,8 GB ,128 GB,16,29999
+301,"IQOO Z9 (Brushed Green, 128 GB)",iqoo,8 GB ,128 GB,24,24999
+302,"itel P 55 5G (Mint Green, 128 GB)",itel,6 GB ,128 GB,26,13499
+303,"vivo V30e (Silk Blue, 256 GB)",vivo,8 GB ,256 GB,17,34999
+304,"IQOO Z9 5G (Graphene Blue, 128 GB)",iqoo,8 GB ,128 GB,22,24999
+305,"Google Pixel 7 Pro (Hazel, 128 GB)",google,12 GB ,128 GB,47,84999
+306,"Nothing Phone (2a) Plus (Grey, 256 GB)",nothing,12 GB ,256 GB,6,31999
+307,"REDMI 10A (Slate grey, 64 GB)",redmi,4 GB ,64 GB,29,11999
+308,"POCO M6 Pro 5G (Power Black, 256 GB)",poco,8 GB ,256 GB,16,17999
+309,"REDMI 10 (Caribbean Green, 128 GB)",redmi,6 GB ,128 GB,37,16999
+310,"SAMSUNG Galaxy F34 5G (Electric Black, 128 GB)",samsung,8 GB ,128 GB,42,25999
+311,"Tecno Pova 5 Pro 5G (Silver Fantasy, 256 GB)",tecno,8 GB ,256 GB,23,20999
+312,"REDMI 11 Prime (Playful Green, 64 GB)",redmi,4 GB ,64 GB,26,14999
+313,"itel S23 (Mystery White, 128 GB)",itel,8 GB ,128 GB,10,9499
+314,"vivo V30 5G (Peacock Green, 128 GB)",vivo,8 GB ,128 GB,17,38999
+315,"realme 12 5G (Woodland Green, 128 GB)",realme,6 GB ,128 GB,15,19999
+316,"Motorola G60 (Frosted Champagne, 128 GB)",motorola,6 GB ,128 GB,31,21999
+317,"SAMSUNG Galaxy F12 (Sky Blue, 64 GB)",samsung,4 GB ,64 GB,23,12999
+318,"realme Narzo N55 (Prime Blue, 128 GB)",realme,6 GB ,128 GB,20,14999
+319,"SAMSUNG Galaxy S24 5G (Onyx Black, 256 GB)",samsung,8 GB ,256 GB,19,79999
+320,"SAMSUNG Galaxy A03 Core (Bronze, 32 GB)",samsung,2 GB ,32 GB,23,10499
+321,"Nokia C32 (Beach Pink, 128 GB)",nokia,6 GB ,128 GB,29,12499
+322,"SAMSUNG GALAXY M13 (Stardust Brown, 64 GB)",samsung,4 GB ,64 GB,34,14999
+323,"OPPO Reno 12 5G (Matte Brown, 256 GB)",oppo,8 GB ,256 GB,25,43999
+324,"REDMI A2+ (Classic Black, 128 GB)",redmi,4 GB ,128 GB,33,12499
+325,"vivo V30 5G (Andaman Blue, 128 GB)",vivo,8 GB ,128 GB,17,38999
+326,"Nokia C31 (Mint, 64 GB)",nokia,4 GB ,64 GB,30,12999
+327,"LAVA Yuva 3Pro (Meadow Purple, 128 GB)",lava,8 GB ,128 GB,32,12999
+328,"LAVA Blaze Pro 5G with Dual Sim|50MP Rear Camera|5000 mAh Battery|Expandable Upto 1TB (Radiant Pearl, 128 GB)",lava,8 GB ,128 GB,19,14499
+329,"POCO M4 5G (Power Black, 64 GB)",poco,4 GB ,64 GB,18,15999
+330,"REDMI Note 11 (Horizon Blue, 128 GB)",redmi,6 GB ,128 GB,32,19999
+331,"realme C53 (Champion Black, 128 GB)",realme,4 GB ,128 GB,16,11999
+332,"realme Narzo N55 (Prime Black, 64 GB)",realme,4 GB ,64 GB,15,12999
+333,"itel A26 (GRADATION GREEN, 32 GB)",itel,2 GB ,32 GB,1,6999
+334,"realme Narzo N55 (Prime Blue, 64 GB)",realme,4 GB ,64 GB,15,12999
+335,"vivo Y28e 5G (Vintage Red, 128 GB)",vivo,4 GB ,128 GB,25,15999
